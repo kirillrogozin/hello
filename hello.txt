@@ -1,3 +1,1 @@
 Hello Jay!
-I made the first commit. Cool!
-Added the third line
